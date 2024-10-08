@@ -107,5 +107,5 @@ fetch(file)
             console.log(`Sukkerinnholdet i en kiwi er ${element.nutritions.sugar}g.`);
         }
     });
+    */
 })
-*/

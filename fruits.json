@@ -662,13 +662,13 @@
       "id": 103,
       "family": "Annonaceae",
       "order": "Rosales",
-      "genus": "Annonas",
+      "genus": "Cocos",
       "nutritions": {
-        "calories": 92,
-        "fat": 0.29,
-        "sugar": 3.4,
-        "carbohydrates": 19.1,
-        "protein": 1.5
+        "calories": 354,
+        "fat": 33,
+        "sugar": 6.3,
+        "carbohydrates": 6.8,
+        "protein": 3.3
       }
     },
     {
@@ -683,6 +683,20 @@
         "sugar": 8.1,
         "carbohydrates": 9.6,
         "protein": 1.2
+      }
+    },
+    {
+      "name": "Coconut",
+      "id": 105,
+      "family": "Arecaceae",
+      "order": "Arecales",
+      "genus": "Annonas",
+      "nutritions": {
+        "calories": 92,
+        "fat": 0.29,
+        "sugar": 3.4,
+        "carbohydrates": 19.1,
+        "protein": 1.5
       }
     }
   ]
